@@ -1,0 +1,2 @@
+# Their Meds
+This is the backend for a web application that is a WIP.  The main focus of this project is to help loved ones with their medication.  This is to help loved ones to manage any medication that a user has and detail any special information that should be noted in an emergency.
